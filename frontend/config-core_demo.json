@@ -74,5 +74,17 @@
         }
       ]
     }
+    },
+     "@openmrs/esm-primary-navigation-app": {
+      "logo": {
+        "src": "/openmrs/spa/favicon.ico",
+        "name": "ClinicEMR"
+      },
+      "externalRefLinks": [
+      {
+        "title": "Contact Developer",
+        "redirect": "https://www.bwongo.site"
+      }
+    ]
     }
   }
