@@ -33,6 +33,8 @@
     }
   },
    "@openmrs/esm-styleguide": {
+    "implementationName": "Gerehu General Hospital",
+    "pageTitle": "Gerehu General Hospital - OpenMRS",
     "Brand color #1": "#7A1502",
     "Brand color #2": "#545352",
     "Brand color #3": "#66615D"
